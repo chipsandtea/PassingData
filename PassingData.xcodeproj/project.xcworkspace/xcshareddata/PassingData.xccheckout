@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D3F20F33-61CF-4A3F-AC4C-0F9B24406AE7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PassingData</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D56F1AA666C7DAF5536529933B3793FE31FC24F6</key>
+		<string>https://github.com/chipsandtea/PassingData.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PassingData.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D56F1AA666C7DAF5536529933B3793FE31FC24F6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chipsandtea/PassingData.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D56F1AA666C7DAF5536529933B3793FE31FC24F6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D56F1AA666C7DAF5536529933B3793FE31FC24F6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PassingData</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -13,6 +13,7 @@
 		9DA0651A1A9A99AC00AD4A9D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DA065191A9A99AC00AD4A9D /* Images.xcassets */; };
 		9DA0651D1A9A99AC00AD4A9D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DA0651B1A9A99AC00AD4A9D /* LaunchScreen.xib */; };
 		9DA065291A9A99AC00AD4A9D /* PassingDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DA065281A9A99AC00AD4A9D /* PassingDataTests.swift */; };
+		9DA065331A9A9B1C00AD4A9D /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DA065321A9A9B1C00AD4A9D /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9DA065221A9A99AC00AD4A9D /* PassingDataTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassingDataTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DA065271A9A99AC00AD4A9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DA065281A9A99AC00AD4A9D /* PassingDataTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingDataTests.swift; sourceTree = "<group>"; };
+		9DA065321A9A9B1C00AD4A9D /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				9DA065121A9A99AC00AD4A9D /* AppDelegate.swift */,
 				9DA065141A9A99AC00AD4A9D /* ViewController.swift */,
 				9DA065161A9A99AC00AD4A9D /* Main.storyboard */,
+				9DA065321A9A9B1C00AD4A9D /* ViewController2.swift */,
 				9DA065191A9A99AC00AD4A9D /* Images.xcassets */,
 				9DA0651B1A9A99AC00AD4A9D /* LaunchScreen.xib */,
 				9DA065101A9A99AC00AD4A9D /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				9DA065151A9A99AC00AD4A9D /* ViewController.swift in Sources */,
 				9DA065131A9A99AC00AD4A9D /* AppDelegate.swift in Sources */,
+				9DA065331A9A9B1C00AD4A9D /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
